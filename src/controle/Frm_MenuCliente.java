@@ -5,6 +5,7 @@
 package controle;
 
 import java.awt.Color;
+import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JMenu;
@@ -25,6 +26,8 @@ public class Frm_MenuCliente extends javax.swing.JFrame {
     public Frm_MenuCliente() {
         initComponents();
         setExtendedState(JFrame.MAXIMIZED_BOTH);
+                ImageIcon icone = new ImageIcon("src/img/NOVA.png");
+        setIconImage(icone.getImage()); 
     }
 
     /**
