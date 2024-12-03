@@ -2158,7 +2158,7 @@ public class Frm_MenuFunc extends javax.swing.JFrame {
 
     private void btnNotaFiscalJogoMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnNotaFiscalJogoMouseExited
         // TODO add your handling code here:
-        btnNotaFiscal.setBackground(new Color(75,65,119));
+        btnNotaFiscalJogo.setBackground(new Color(75,65,119));
     }//GEN-LAST:event_btnNotaFiscalJogoMouseExited
 
     private void btnNotaFiscalJogoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnNotaFiscalJogoActionPerformed
