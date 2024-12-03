@@ -2115,10 +2115,12 @@ public class Frm_MenuFunc extends javax.swing.JFrame {
 
     private void btnMeioPagamentoMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnMeioPagamentoMouseEntered
         // TODO add your handling code here:
+        btnMeioPagamento.setBackground(new Color(200,100,60));
     }//GEN-LAST:event_btnMeioPagamentoMouseEntered
 
     private void btnMeioPagamentoMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnMeioPagamentoMouseExited
         // TODO add your handling code here:
+        btnMeioPagamento.setBackground(new Color(75,65,119));
     }//GEN-LAST:event_btnMeioPagamentoMouseExited
 
     private void btnMeioPagamentoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnMeioPagamentoActionPerformed
@@ -2132,10 +2134,12 @@ public class Frm_MenuFunc extends javax.swing.JFrame {
 
     private void btnNotaFiscalMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnNotaFiscalMouseEntered
         // TODO add your handling code here:
+        btnNotaFiscal.setBackground(new Color(200,100,60));
     }//GEN-LAST:event_btnNotaFiscalMouseEntered
 
     private void btnNotaFiscalMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnNotaFiscalMouseExited
         // TODO add your handling code here:
+        btnNotaFiscal.setBackground(new Color(75,65,119));
     }//GEN-LAST:event_btnNotaFiscalMouseExited
 
     private void btnNotaFiscalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnNotaFiscalActionPerformed
@@ -2149,10 +2153,12 @@ public class Frm_MenuFunc extends javax.swing.JFrame {
 
     private void btnNotaFiscalJogoMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnNotaFiscalJogoMouseEntered
         // TODO add your handling code here:
+        btnNotaFiscalJogo.setBackground(new Color(200,100,60));
     }//GEN-LAST:event_btnNotaFiscalJogoMouseEntered
 
     private void btnNotaFiscalJogoMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnNotaFiscalJogoMouseExited
         // TODO add your handling code here:
+        btnNotaFiscal.setBackground(new Color(75,65,119));
     }//GEN-LAST:event_btnNotaFiscalJogoMouseExited
 
     private void btnNotaFiscalJogoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnNotaFiscalJogoActionPerformed
@@ -2166,10 +2172,12 @@ public class Frm_MenuFunc extends javax.swing.JFrame {
 
     private void btnGeneroJogoMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnGeneroJogoMouseEntered
         // TODO add your handling code here:
+        btnGeneroJogo.setBackground(new Color(200,100,60));
     }//GEN-LAST:event_btnGeneroJogoMouseEntered
 
     private void btnGeneroJogoMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnGeneroJogoMouseExited
         // TODO add your handling code here:
+        btnGeneroJogo.setBackground(new Color(75,65,119));
     }//GEN-LAST:event_btnGeneroJogoMouseExited
 
     private void btnGeneroJogoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGeneroJogoActionPerformed
@@ -2184,10 +2192,12 @@ public class Frm_MenuFunc extends javax.swing.JFrame {
 
     private void btnCategoriaJogoMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnCategoriaJogoMouseEntered
         // TODO add your handling code here:
+        btnCategoriaJogo.setBackground(new Color(200,100,60));
     }//GEN-LAST:event_btnCategoriaJogoMouseEntered
 
     private void btnCategoriaJogoMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnCategoriaJogoMouseExited
         // TODO add your handling code here:
+        btnCategoriaJogo.setBackground(new Color(75,65,119));
     }//GEN-LAST:event_btnCategoriaJogoMouseExited
 
     private void btnCategoriaJogoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCategoriaJogoActionPerformed
